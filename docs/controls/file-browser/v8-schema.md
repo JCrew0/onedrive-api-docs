@@ -263,6 +263,7 @@ This outlines the full schema available to configure the btowser. These options 
              */
             showFocusOnLoad?: boolean;
         };
+        theme?: // 'default' | 'dark' | 'lists' | 'teams' | 'teams-default' | 'teams-dark' | 'teams-contrast'
         /**
          * Specified how many items may be picked.
          */
